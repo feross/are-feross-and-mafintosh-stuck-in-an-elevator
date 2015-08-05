@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/feross/are-feross-and-mafintosh-stuck-in-an-elevator#readme",
   "dependencies": {
-    "are-feross-and-mafintosh-stuck-in-an-elevator": "^1.0.1"
+    "are-feross-and-mafintosh-stuck-in-an-elevator": "^2.0.0"
   },
   "devDependencies": {
     "browserify": "^11.0.1",

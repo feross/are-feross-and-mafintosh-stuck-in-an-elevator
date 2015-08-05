@@ -4,6 +4,7 @@ document.querySelector('.stuck').innerText = areFerossAndMafintoshStuckInAnEleva
 
 },{"are-feross-and-mafintosh-stuck-in-an-elevator":2}],2:[function(require,module,exports){
 module.exports = function () {
-  return true // because we are currently stuck!
+  return false // we've been rescued!
 }
+
 },{}]},{},[1]);
