@@ -1,5 +1,5 @@
 {
-  "name": "are-feross-and-mafintosh-stuck-in-an-elevator.tk",
+  "name": "are-feross-and-mafintosh-stuck-in-an-elevator",
   "version": "1.0.0",
   "description": "ARE FEROSS AND MAFINTOSH STUCK IN AN ELEVATOR?",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feross/are-feross-and-mafintosh-stuck-in-an-elevator.tk.git"
+    "url": "git+https://github.com/feross/are-feross-and-mafintosh-stuck-in-an-elevator.git"
   },
   "author": "Feross Aboukhadijeh <feross@feross.org> (http://feross.org/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/feross/are-feross-and-mafintosh-stuck-in-an-elevator.tk/issues"
+    "url": "https://github.com/feross/are-feross-and-mafintosh-stuck-in-an-elevator/issues"
   },
-  "homepage": "https://github.com/feross/are-feross-and-mafintosh-stuck-in-an-elevator.tk#readme",
+  "homepage": "https://github.com/feross/are-feross-and-mafintosh-stuck-in-an-elevator#readme",
   "dependencies": {
     "are-feross-and-mafintosh-stuck-in-an-elevator": "^1.0.1"
   },
