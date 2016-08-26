@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "browserify": "^11.0.1",
-    "standard": "^5.0.0"
+    "standard": "*"
   }
 }
