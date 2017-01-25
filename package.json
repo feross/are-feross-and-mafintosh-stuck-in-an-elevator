@@ -21,7 +21,7 @@
     "are-feross-and-mafintosh-stuck-in-an-elevator": "^2.0.0"
   },
   "devDependencies": {
-    "browserify": "^11.0.1",
+    "browserify": "*",
     "standard": "*"
   }
 }
